@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "AI Text Processor",
+  "version": "1.0",
+  "description": "AI-powered text processing using Chrome APIs",
+  "permissions": ["ml"],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
