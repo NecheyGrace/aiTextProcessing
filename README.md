@@ -13,7 +13,7 @@ An AI-powered text processing application built with React and Tailwind CSS, fea
 
 ## 🚀 Live Demo
 
-🔗 [Click here to check out the live demo](#)
+🔗 [Click here to check out the live demo](https://ai-text-processing.vercel.app/)
 
 ## 🛠️ Installation
 
@@ -21,7 +21,7 @@ Clone the repository and install dependencies:
 
 ```sh
 # Clone the repo
-git clone https://github.com/yourusername/ai-text-processor.git
+git clone https://github.com/NecheyGrace/aiTextProcessing.git
 
 # Navigate to the project folder
 cd ai-text-processor
