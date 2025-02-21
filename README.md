@@ -69,7 +69,7 @@ This project is licensed under the MIT License.
 
 ## 💬 Contact
 
-📧 Email: [your-email@example.com](nechemetu@gmail.com)  
-🐦 Twitter: [@yourhandle](https://twitter.com/@MetuNechey)  
-💼 LinkedIn: [Your Name](https://linkedin.com/in/amara-metu-330261175)
+📧 Email: [nechemetu@gmail.com](nechemetu@gmail.com)  
+🐦 Twitter: [@MetuNechey](https://twitter.com/@MetuNechey)  
+💼 LinkedIn: [Amara Metu](https://linkedin.com/in/amara-metu-330261175)
 
