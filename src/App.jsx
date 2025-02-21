@@ -95,7 +95,10 @@ export default function App() {
   };
 
   return (
-    <div className="flex flex-col h-[600px] w-full max-w-lg mx-auto bg-gray-100 rounded-lg shadow-lg overflow-hidden">
+    <div className="flex flex-col h-[600px] w-full max-w-lg mx-auto bg-gray-100 rounded-lg shadow-lg overflow-hidden pt-16">
+      <header className="bg-blue-500 text-white text-center text-lg font-bold p-3 rounded-t-lg shadow-md">
+        AI Text Processor
+      </header>
       <div
         ref={chatContainerRef}
         className="flex-1 overflow-y-auto p-4 space-y-4"
